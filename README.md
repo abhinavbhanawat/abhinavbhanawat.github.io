@@ -10,7 +10,6 @@
 <link href="defaultstyle.css" rel="stylesheet" media="screen" />
 <script type="text/javascript" src="branding.js"></script>
 <script type="text/JavaScript" src="http://www.colorado.edu/templates/faculty-template/js/curvycorners.js"></script>
-
 </head>
 
 <body>
@@ -48,14 +47,7 @@
 <li type=disc>To know about my profile, you can view my <a href="page3.html">CV</a>.
 <li type=disc>      <a href="page5.html">CONTACT ME</a>, I would always like to hear from or help you.
 </ul>                     
-                     
-
-                    
-                   
-
             </p>
-
-
         </div>
 	</div>
     </div>
