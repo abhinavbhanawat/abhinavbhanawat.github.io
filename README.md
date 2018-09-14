@@ -11,7 +11,7 @@
 <script type="text/javascript" src="branding.js"></script>
 <script type="text/JavaScript" src="http://www.colorado.edu/templates/faculty-template/js/curvycorners.js"></script>
 </head>
-
+	
 <body>
 <div id="container">
     <div id="ucb" style="margin-top: 10px;margin-bottom: 15px;"><a href="http://www.iitk.ac.in" style="display: inline-block;"><img src="img/logo.png" width = "80px" /></a><h2 style="margin-left: 20px;vertical-align:top;margin-top:24px;display: inline-block;float:right">INDIAN INSTITUTE OF TECHNOLOGY, KANPUR</h2></div>
