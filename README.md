@@ -1,15 +1,5 @@
 # abhinavbhanawat.github.io
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-90642290-1', 'auto');
-  ga('send', 'pageview');
-
 </script>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -35,7 +25,6 @@
             <li><a href="page3.html">CV</a></li>
             <li><a href="page4.html">Photos</a></li>
             <li><a href="page5.html">Contact Me</a></li>
-
         </ul>
     </div>
     <div id="banner">
@@ -45,20 +34,14 @@
     	<p>Department of Mechanical Engineering, IIT Kanpur</p>
     	</div>
     </div>
-   
     <div id="page">
-		        <div id="content">
-		        
+		        <div id="content">	        
 		        <div id="sidebar">
 		        <img src="pp4.jpg" title="photo" id="fac_photo" width="300px" />
-        		
-        	</div>
-		        
+        	</div>		        
         	<p style="margin-left:10px;margin-right:350px">
                  Hi all, welcome to my webpage.<br/> <br/>I am a final year BTech-MTech dual degree student in Mechanical Engineering from IIT Kanpur. I come from a beautiful city of southern Rajasthan - Udaipur, often designated as 'the city of lakes' (See <a href="page4.html">Photos</a>).<br/><br/>
-
                      I am a naturalist and an art & music enthusiast. I am passionate about studying the fundamental physical principles behind formation of functional geometries in nature (specially in biological systems), and their applications to design new engineering solutions.    
-
 <ul>
 <li type=disc> To know more about me, what I like to do, have a look at my <a href="page1.html">INTERESTS</a> and my <a href="page2.html">PROJECTS</a>.
 <li type=disc>To know about my coursework, you can go to <a href="page6.html">COURSES</a>.
