@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Sikkim"
+	indexPageName="1.html"
+
+>
+  <image imageURL="images/DSC_0958.jpg"
+	thumbURL="thumbs/DSC_0958.jpg"
+	linkURL="images/DSC_0958.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0958.JPG">
+    <title><![CDATA[DSC_0958]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1012.jpg"
+	thumbURL="thumbs/DSC_1012.jpg"
+	linkURL="images/DSC_1012.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_1012.JPG">
+    <title><![CDATA[DSC_1012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0055.jpg"
+	thumbURL="thumbs/DSC_0055.jpg"
+	linkURL="images/DSC_0055.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0055.JPG">
+    <title><![CDATA[DSC_0055]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0652.jpg"
+	thumbURL="thumbs/DSC_0652.jpg"
+	linkURL="images/DSC_0652.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0652.JPG">
+    <title><![CDATA[DSC_0652]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\4.jpg">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0550.jpg"
+	thumbURL="thumbs/DSC_0550.jpg"
+	linkURL="images/DSC_0550.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0550.JPG">
+    <title><![CDATA[DSC_0550]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\5.jpg">
+    <title><![CDATA[5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0826-01.jpeg"
+	thumbURL="thumbs/DSC_0826-01.jpeg"
+	linkURL="images/DSC_0826-01.jpeg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\DSC_0826-01.jpeg">
+    <title><![CDATA[DSC_0826-01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180604_220354.jpg"
+	thumbURL="thumbs/IMG_20180604_220354.jpg"
+	linkURL="images/IMG_20180604_220354.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\IMG_20180604_220354.jpg">
+    <title><![CDATA[IMG_20180604_220354]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\1.jpg">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0287.jpg"
+	thumbURL="thumbs/DSC_0287.jpg"
+	linkURL="images/DSC_0287.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0287.JPG">
+    <title><![CDATA[DSC_0287]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0310.jpg"
+	thumbURL="thumbs/DSC_0310.jpg"
+	linkURL="images/DSC_0310.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0310.JPG">
+    <title><![CDATA[DSC_0310]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0554.jpg"
+	thumbURL="thumbs/DSC_0554.jpg"
+	linkURL="images/DSC_0554.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0554.JPG">
+    <title><![CDATA[DSC_0554]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.jpg"
+	thumbURL="thumbs/8.jpg"
+	linkURL="images/8.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\snapseed mobile\8.jpg">
+    <title><![CDATA[8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Chittorgarh Fort"
+
+>
+  <image imageURL="images/DSC_0730.jpg"
+	thumbURL="thumbs/DSC_0730.jpg"
+	linkURL="images/DSC_0730.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0730.JPG">
+    <title><![CDATA[DSC_0730]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0660.jpg"
+	thumbURL="thumbs/DSC_0660.jpg"
+	linkURL="images/DSC_0660.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0660.JPG">
+    <title><![CDATA[DSC_0660]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0665.jpg"
+	thumbURL="thumbs/DSC_0665.jpg"
+	linkURL="images/DSC_0665.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0665.JPG">
+    <title><![CDATA[DSC_0665]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0725-01-min.jpeg"
+	thumbURL="thumbs/DSC_0725-01-min.jpeg"
+	linkURL="images/DSC_0725-01-min.jpeg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\DSC_0725-01-min.jpeg">
+    <title><![CDATA[DSC_0725-01-min]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0669.jpg"
+	thumbURL="thumbs/DSC_0669.jpg"
+	linkURL="images/DSC_0669.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0669.JPG">
+    <title><![CDATA[DSC_0669]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0671.jpg"
+	thumbURL="thumbs/DSC_0671.jpg"
+	linkURL="images/DSC_0671.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0671.JPG">
+    <title><![CDATA[DSC_0671]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0672.jpg"
+	thumbURL="thumbs/DSC_0672.jpg"
+	linkURL="images/DSC_0672.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0672.JPG">
+    <title><![CDATA[DSC_0672]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0674.jpg"
+	thumbURL="thumbs/DSC_0674.jpg"
+	linkURL="images/DSC_0674.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0674.JPG">
+    <title><![CDATA[DSC_0674]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0698.jpg"
+	thumbURL="thumbs/DSC_0698.jpg"
+	linkURL="images/DSC_0698.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\chitorgarh\DSC_0698.JPG">
+    <title><![CDATA[DSC_0698]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

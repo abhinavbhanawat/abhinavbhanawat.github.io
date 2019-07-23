@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="My photos"
+
+>
+  <image imageURL="images/DSC_0121.jpg"
+	thumbURL="thumbs/DSC_0121.jpg"
+	linkURL="images/DSC_0121.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Nepal\Best selected\DSC_0121.JPG">
+    <title><![CDATA[DSC_0121]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0310-001.jpg"
+	thumbURL="thumbs/DSC_0310-001.jpg"
+	linkURL="images/DSC_0310-001.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0310-001.JPG">
+    <title><![CDATA[DSC_0310-001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0186.jpg"
+	thumbURL="thumbs/DSC_0186.jpg"
+	linkURL="images/DSC_0186.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0186.JPG">
+    <title><![CDATA[DSC_0186]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0013.jpg"
+	thumbURL="thumbs/DSC_0013.jpg"
+	linkURL="images/DSC_0013.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0013.JPG">
+    <title><![CDATA[DSC_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0404.jpg"
+	thumbURL="thumbs/DSC_0404.jpg"
+	linkURL="images/DSC_0404.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Nepal\Best selected\DSC_0404.JPG">
+    <title><![CDATA[DSC_0404]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170314_111652.jpg"
+	thumbURL="thumbs/20170314_111652.jpg"
+	linkURL="images/20170314_111652.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\Jatin\best selected\20170314_111652.jpg">
+    <title><![CDATA[20170314_111652]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0053.jpg"
+	thumbURL="thumbs/DSC_0053.jpg"
+	linkURL="images/DSC_0053.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\best ones\DSC_0053.JPG">
+    <title><![CDATA[DSC_0053]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20170314_115430106.jpg"
+	thumbURL="thumbs/IMG_20170314_115430106.jpg"
+	linkURL="images/IMG_20170314_115430106.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\mohit\best selected\IMG_20170314_115430106.jpg">
+    <title><![CDATA[IMG_20170314_115430106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0175.jpg"
+	thumbURL="thumbs/DSC_0175.jpg"
+	linkURL="images/DSC_0175.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Nepal\Best selected\DSC_0175.JPG">
+    <title><![CDATA[DSC_0175]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0334.jpg"
+	thumbURL="thumbs/DSC_0334.jpg"
+	linkURL="images/DSC_0334.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Trip To Sikkim\DSLR\Main\DSC_0334.JPG">
+    <title><![CDATA[DSC_0334]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170314_123003.jpg"
+	thumbURL="thumbs/20170314_123003.jpg"
+	linkURL="images/20170314_123003.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\Jatin\best selected\20170314_123003.jpg">
+    <title><![CDATA[20170314_123003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0272.jpg"
+	thumbURL="thumbs/DSC_0272.jpg"
+	linkURL="images/DSC_0272.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Nepal\Abhinav\DSLR\DSC_0272.JPG">
+    <title><![CDATA[DSC_0272]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Website\Abhinav\img\travel\3.jpg">
+    <title><![CDATA[3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Kedarkantha Trek"
+	indexPageName="1.html"
+
+>
+  <image imageURL="images/IMG_20170315_142156487_HDR.jpg"
+	thumbURL="thumbs/IMG_20170315_142156487_HDR.jpg"
+	linkURL="images/IMG_20170315_142156487_HDR.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\mohit\best selected\IMG_20170315_142156487_HDR.jpg">
+    <title><![CDATA[IMG_20170315_142156487_HDR]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20170316_071748330.jpg"
+	thumbURL="thumbs/IMG_20170316_071748330.jpg"
+	linkURL="images/IMG_20170316_071748330.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\mohit\best selected\IMG_20170316_071748330.jpg">
+    <title><![CDATA[IMG_20170316_071748330]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20170316_074745112.jpg"
+	thumbURL="thumbs/IMG_20170316_074745112.jpg"
+	linkURL="images/IMG_20170316_074745112.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\mohit\best selected\IMG_20170316_074745112.jpg">
+    <title><![CDATA[IMG_20170316_074745112]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20170316_080811740.jpg"
+	thumbURL="thumbs/IMG_20170316_080811740.jpg"
+	linkURL="images/IMG_20170316_080811740.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\mohit\best selected\IMG_20170316_080811740.jpg">
+    <title><![CDATA[IMG_20170316_080811740]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0145.jpg"
+	thumbURL="thumbs/DSC_0145.jpg"
+	linkURL="images/DSC_0145.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\Abhinav\DSLR\best selected\DSC_0145.JPG">
+    <title><![CDATA[DSC_0145]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0236.jpg"
+	thumbURL="thumbs/DSC_0236.jpg"
+	linkURL="images/DSC_0236.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\Abhinav\DSLR\best selected\DSC_0236.JPG">
+    <title><![CDATA[DSC_0236]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0256.jpg"
+	thumbURL="thumbs/DSC_0256.jpg"
+	linkURL="images/DSC_0256.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\Abhinav\DSLR\best selected\DSC_0256.JPG">
+    <title><![CDATA[DSC_0256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7642.jpg"
+	thumbURL="thumbs/IMG_7642.jpg"
+	linkURL="images/IMG_7642.jpg"
+	linkTarget="_blank"
+	sourcePath="H:\Photos\Trips\Kedarkantha\sughosh\best selected\IMG_7642.JPG">
+    <title><![CDATA[IMG_7642]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
