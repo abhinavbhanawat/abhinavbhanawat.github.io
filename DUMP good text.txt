@@ -1,0 +1,16 @@
+where I worked in the field of radiation transfer to understand light-matter interactions across length scales in order to develop novel solar-driven technologies. 
+
+                     I am an imaginative person who likes engaging in creative pursuits, be it academic or extra curricular. I am passionate about working in the field of efficient solar energy utilisation and conversion in order to develop novel technologies to meet the challenges in water, energy and food across the world, especially in developing countries. I am currently looking at light transfer phenomena in photoelectrochemical systems to quantify the optical losses and improve their designs for better performance.
+
+
+<li type=disc>To know about my coursework, you can go to <a href="page6.html">COURSES</a>.
+
+<li type=disc>To know about my profile, you can view my <a href="page3.html">CV</a>.
+
+
+ Being involved in research work, I have realised that the lessons learned through these activities apply to research as well. Thus, in my opinion, research is a very creative process. <br/><br/>
+The prospect of doing innovative work excites me, knowing that research and innovations have been the driving force behind all the comforts that we enjoy today.
+
+            <li><a href="page6.html">Courses</a><li/>
+            <li><a href="page3.html">CV</a></li>
+	    <li><a href="page7.html">Music</a></li>
