@@ -14,3 +14,17 @@ The prospect of doing innovative work excites me, knowing that research and inno
             <li><a href="page6.html">Courses</a><li/>
             <li><a href="page3.html">CV</a></li>
 	    <li><a href="page7.html">Music</a></li>
+
+
+                     I am an imaginative person who likes engaging in creative pursuits, be it academic or extra curricular. The desire for originality makes me happy whenever I am able to come up with something new. This has manifested itself in my <a href="page2.html">research</a> and also in my <a href="page4.html">creative expression</a> such as composing poems, singing, graphics editing, photography, and blogging.
+
+<ul>
+<li type=disc> To know more about me, have a look at my <a href="page1.html">INTERESTS</a>.
+<li type=disc> For my research work, please go to <a href="page2.html">RESEARCH</a>.
+<li type=disc>Some of my creative endeavours can be accessed here here: <a href="page4.html">PHOTOGRAPHY</a> and <a href="page7.html">MUSIC</a>.
+<li type=disc>For recent news, see <a href="page8.html">RECENT</a>.
+<li type=disc>      <a href="page5.html">CONTACT ME</a>, I would always like to hear from you.
+</ul>                     
+
+            <li><a href="page1.html">Interests</a></li>
+
