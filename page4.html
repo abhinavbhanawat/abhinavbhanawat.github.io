@@ -1,98 +1,178 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Abhinav Bhanawat : Photos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Abhinav Bhanawat : Beyond the Lab</title>
 <link rel="shortcut icon" href="img/favicon.ico" />
 <link href="defaultstyle.css" rel="stylesheet" media="screen" />
 <script type="text/javascript" src="branding.js"></script>
 <script type="text/JavaScript" src="js/curvycorners.js"></script>
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+<link href="css/lightbox.css" rel="stylesheet" />
 
+<style>
+  .section-intro { margin-bottom: 18px; }
+
+  /* Thumbnail grid: 3 per row on desktop, 2 on tablet, 1 on phone */
+  .thumb-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .thumb-grid a { display: block; }
+  .thumb-grid img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+    transition: opacity 0.2s;
+  }
+  .thumb-grid img:hover { opacity: 0.85; }
+
+  /* Poetry pages are usually portrait */
+  .poetry-grid img { aspect-ratio: 3 / 4; }
+  .poem-caption { font-size: 0.9em; color: #555; margin-top: 6px; }
+
+  .more-link {
+    display: inline-block;
+    margin-top: 16px;
+    font-weight: bold;
+  }
+
+  /* Responsive 16:9 video embed */
+  .video-wrap {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-bottom: 18px;
+  }
+  .video-wrap iframe {
+    position: absolute; top: 0; left: 0;
+    width: 100%; height: 100%; border: 0;
+  }
+  .song-title { margin: 0 0 8px 0; }
+
+  @media (max-width: 800px) { .thumb-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 500px) { .thumb-grid { grid-template-columns: 1fr; } }
+</style>
 </head>
 
 <body>
 <div id="container">
-    <div id="ucb" style="margin-top: 10px;margin-bottom: 15px;"><a href="https://www.epfl.ch/en/" style="display: inline-block;"><img src="img/EPFL logo.png" width = "160px" /></a><h2 style="margin-left: 10px;vertical-align:top;margin-top:4px;display: inline-block;float:right">École Polytechnique Fédérale de Lausanne</h2></div>    <div id="wrapper">
-     <div id="nav">
-    	<ul>      	<li><a href="index.html">Home</a></li>
-            <li><a href="page2.html">Research</a></li>
-            <li><a href="page4.html">Creative Expression</a></li>
-	    <li><a href="page8.html">Recent</a></li>
-            <li><a href="page5.html">Contact</a></li>
-	    
-        </ul>
+  <div id="ucb" style="margin-top: 10px;margin-bottom: 15px;"><a href="https://www.epfl.ch/en/" style="display: inline-block;"><img src="img/EPFL logo.png" width="160px" /></a><h2 style="margin-left: 10px;vertical-align:top;margin-top:4px;display: inline-block;float:right">École Polytechnique Fédérale de Lausanne</h2></div>
+  <div id="wrapper">
+    <div id="nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="page2.html">Research</a></li>
+        <li><a href="conferences.html">Conferences</a></li>
+        <li><a href="page4.html">Beyond the Lab</a></li>
+        <li><a href="page8.html">Recent</a></li>
+        <li><a href="page5.html">Contact</a></li>
+      </ul>
     </div>
-    <div id="page">       
-     <div id="content"> 
-		 
-      <p><!--START JUICEBOX EMBED-->
-<script src="juiceboxgalleries/kedarkantha/jbcore/juicebox.js"></script>
-<script>
-new juicebox({
-baseUrl : 'juiceboxgalleries/kedarkantha/',
-containerId: "juicebox-container",
-galleryWidth: "100%",
-galleryHeight: "80%",
-backgroundColor: "rgba(34,34,34,1)"
-});
-</script>
-<div id="juicebox-container"></div>
-<!--END JUICEBOX EMBED-->
-<!--START JUICEBOX EMBED-->
-<script src="juiceboxgalleries/sikkim/jbcore/juicebox.js"></script>
-<script>
-new juicebox({
-baseUrl : 'juiceboxgalleries/sikkim/',
-containerId: "juicebox-container1",
-galleryWidth: "100%",
-galleryHeight: "80%",
-backgroundColor: "rgba(34,34,34,1)"
-});
-</script>
-<div style="margin-left:0px;margin-top:15px" id="juicebox-container1"></div>
-<!--END JUICEBOX EMBED-->
-<!--START JUICEBOX EMBED-->
-<script src="juiceboxgalleries/chittorgarh/jbcore/juicebox.js"></script>
-<script>
-new juicebox({
-baseUrl : 'juiceboxgalleries/chittorgarh/',
-containerId: "juicebox-container2",
-galleryWidth: "100%",
-galleryHeight: "80%",
-backgroundColor: "rgba(34,34,34,1)"
-});
-</script>
-<div style="margin-left:0px;margin-top:15px" id="juicebox-container2"></div>
-<!--END JUICEBOX EMBED-->
-<!--START JUICEBOX EMBED-->
-<script src="juiceboxgalleries/myphotos/jbcore/juicebox.js"></script>
-<script>
-new juicebox({
-baseUrl : 'juiceboxgalleries/myphotos/',
-containerId: "juicebox-container3",
-galleryWidth: "100%",
-galleryHeight: "80%",
-backgroundColor: "rgba(34,34,34,1)"
-});
-</script>
-<div style="margin-left:0px;margin-top:15px" id="juicebox-container3"></div>
-<!--END JUICEBOX EMBED--></p>
 
+    <div id="page">
+      <div id="content">
+
+        <!-- ================= PHOTOGRAPHY ================= -->
+        <div id="contentbar6" class="contentbar1">
+          <h3>Photography</h3>
+          <p class="section-intro">
+            A few lines about your photography: what you like to shoot (mountains, treks, heritage sites),
+            what draws you to it, and maybe the camera you use.
+          </p>
+
+          <div class="thumb-grid">
+            <a href="img/photography/photo1.jpg" data-lightbox="photography" data-title="Kedarkantha, Uttarakhand">
+              <img src="img/photography/photo1.jpg" alt="Kedarkantha trek" />
+            </a>
+            <a href="img/photography/photo2.jpg" data-lightbox="photography" data-title="Sikkim">
+              <img src="img/photography/photo2.jpg" alt="Sikkim" />
+            </a>
+            <a href="img/photography/photo3.jpg" data-lightbox="photography" data-title="Chittorgarh Fort">
+              <img src="img/photography/photo3.jpg" alt="Chittorgarh" />
+            </a>
+            <a href="img/photography/photo4.jpg" data-lightbox="photography" data-title="Caption">
+              <img src="img/photography/photo4.jpg" alt="Photo 4" />
+            </a>
+            <a href="img/photography/photo5.jpg" data-lightbox="photography" data-title="Caption">
+              <img src="img/photography/photo5.jpg" alt="Photo 5" />
+            </a>
+            <a href="img/photography/photo6.jpg" data-lightbox="photography" data-title="Caption">
+              <img src="img/photography/photo6.jpg" alt="Photo 6" />
+            </a>
+          </div>
+
+          <a class="more-link" href="gallery.html">See full galleries &rarr;</a>
         </div>
-	</div>
-    </div>
-    <div id="footer">
-        <a href="https://www.facebook.com/abhinav.bhanawat.9" style="display: inline-block;" target="_blank"><img src="img/fb.png"  /></a>
-        <a href="https://www.instagram.com/abhinav_bhanawat/" style="display: inline-block;" target="_blank"><img src="img/in.png"  /></a>
-        <p style="display: inline-block;float:right"></p>
 
-    </div>
+        <!-- ================= MUSIC ================= -->
+        <div id="contentbar6" class="contentbar1">
+          <h3>Music</h3>
+          <p class="section-intro">
+            A few lines about your singing: style, influences, whether these are covers or originals.
+          </p>
 
+          <!-- Option A: YouTube (replace VIDEO_ID with the code after "v=" in the YouTube link) -->
+          <p class="song-title"><b>Song title</b>: cover / original</p>
+          <div class="video-wrap">
+            <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="Song title" allowfullscreen="allowfullscreen"></iframe>
+          </div>
+
+          <!-- Option B: self-hosted MP3 (put files in audio/) -->
+          <p class="song-title"><b>Song title 2</b></p>
+          <audio controls="controls" preload="none" style="width:100%; margin-bottom:18px;">
+            <source src="audio/song2.mp3" type="audio/mpeg" />
+            Your browser does not support audio playback.
+          </audio>
+
+          <a class="more-link" href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">More recordings on YouTube &rarr;</a>
+        </div>
+
+        <!-- ================= POETRY ================= -->
+        <div id="contentbar6" class="contentbar1">
+          <h3>Poetry</h3>
+          <p class="section-intro">
+            A few lines about your poetry: language(s) you write in, themes, when you started.
+          </p>
+
+          <div class="thumb-grid poetry-grid">
+            <div>
+              <a href="img/poetry/poem1.jpg" data-lightbox="poetry" data-title="Poem title 1">
+                <img src="img/poetry/poem1.jpg" alt="Poem: title 1" />
+              </a>
+              <div class="poem-caption"><b>Poem title 1</b><br />First line of the poem…</div>
+            </div>
+            <div>
+              <a href="img/poetry/poem2.jpg" data-lightbox="poetry" data-title="Poem title 2">
+                <img src="img/poetry/poem2.jpg" alt="Poem: title 2" />
+              </a>
+              <div class="poem-caption"><b>Poem title 2</b><br />First line of the poem…</div>
+            </div>
+            <div>
+              <a href="img/poetry/poem3.jpg" data-lightbox="poetry" data-title="Poem title 3">
+                <img src="img/poetry/poem3.jpg" alt="Poem: title 3" />
+              </a>
+              <div class="poem-caption"><b>Poem title 3</b><br />First line of the poem…</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="footer">
+    <a href="https://www.facebook.com/abhinav.bhanawat.9" style="display: inline-block;" target="_blank"><img src="img/fb.png" /></a>
+    <a href="https://www.instagram.com/abhinav_bhanawat/" style="display: inline-block;" target="_blank"><img src="img/in.png" /></a>
+    <p style="display: inline-block;float:right"></p>
+  </div>
 </div>
 </body>
 </html>
-
-
-
-
